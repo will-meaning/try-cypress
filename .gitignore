@@ -62,3 +62,4 @@ typings/
 
 # Cypress
 cypress/videos
+cypress/screenshots
